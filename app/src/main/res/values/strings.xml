@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">AMI</string>
+    <string name="navigation_drawer_open">Abrir menú</string>
+    <string name="navigation_drawer_close">Cerrar menú</string>
+
+    <!-- Strings login -->
+    <string name="title_activity_login">Inicio sesión</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Contraseña</string>
+    <string name="action_sign_in">Ingresar</string>
+    <!-- Se muestra en el teclado del movil -->
+    <string name="action_sign_in_short">Listo</string>
+    <string name="error_invalid_email">Correo no válido</string>
+    <string name="error_invalid_password">Contraseña demasiado corta</string>
+    <string name="error_incorrect_password">Contraseña incorrecta</string>
+    <string name="error_field_required">Campo requerido</string>
+    <string name="permission_rationale">"Permisos requeridos para acceder a Contactos."</string>
+
+    <!-- String register -->
+    <string name="title_activity_register">Registro</string>
+    <string name="prompt_password_repeat">Repetir contraseña</string>
+    <string name="action_sign_up">Registrar</string>
+    <string name="prompt_name">Nombre</string>
+    <string name="registrateEnAMI">Regístrate en AMI</string>
+
+    <!-- String restablecerPass -->
+    <string name="title_activity_restablecerPass">Restablecer contraseña</string>
+    <string name="action_restablecerPass">Enviar</string>
+    <string name="ingresaCorreo">Ingresa tu correo registrado</string>
+
+    <!-- String menu AppBar -->
+    <string name="action_settings">Configuración</string>
+    <string name="action_search">Buscar</string>
+
+</resources>
